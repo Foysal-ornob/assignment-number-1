@@ -1,0 +1,291 @@
+body{
+    margin: 0;
+}
+
+                /* ====================
+                        header area
+                ====================== */
+ .header-area{
+     
+     display: flex;
+     margin-left: 5%;
+     margin-right: 5%;
+ }  
+ .header-left{
+     padding-top: 70PX;
+ }  
+ 
+ .header-left a{
+     text-decoration: none;
+     color: #fff;
+     background-color: #ff5959;
+     padding: 10px 20px;
+     border-radius: 10px;
+ }
+
+.header-title{
+    
+    border-left: 4px solid #ff5959;
+   
+}
+.header-title-insite{
+    padding-left: 10px;
+}
+
+
+ .header-left p{
+     font-size: 18px;
+ }
+  
+ .header-left h1{
+     font-size: 60px;
+     
+ }
+
+ #mission-2020{
+     color: orange;
+    
+ }
+
+ .header-right{
+    width: 45%;
+ }
+
+ .header-right img{
+    width: 100%;
+ }
+
+ #header-bottum{
+     padding-top: 20px;
+ }
+
+
+                /* ===================
+                    my mission
+                ======================= */
+
+.my-mission{}               
+
+.my-mission-titel{
+    text-align: center;
+}
+
+.my-mission-titel h1{
+    font-size: 45px;
+}
+.mission-2022{
+    color: #ffad5a;
+}
+
+.my-mission-item{
+   
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.my-mission-item p{
+    padding-bottom: 15px;
+}
+
+.mission{
+    width: 20%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding: 15px 50px;
+    background-color: #edf5f6;
+    
+    
+}
+.vission{
+    width: 20%;;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding: 15px 50px;
+    background-color: #ffeeee;
+     
+}
+
+.goals{
+    width: 20%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding: 15px 50px;
+    background-color: #fff4d5;
+}
+
+
+.icon{
+    width: 25%;
+}
+.icon img{
+    width: 100%;
+}
+
+
+                    /* ===================]
+                        develop area
+                    ====================== */
+
+.develop-area{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 80px;
+   
+}   
+
+.develop-image{
+    width: 33%;
+   
+}
+.develop-image img{
+    width: 100%;
+}
+
+.develop-text{
+    width: 50%;
+    padding-left: 80px;
+}
+
+.develop-text-title{
+    font-size: 30px;
+}
+
+.develop-text p{
+    font-size: 18px;
+}
+
+.develop-text a{
+    text-decoration: none;
+    color: #fff;
+     background-color: #ff5959;
+     padding: 10px 20px;
+     border-radius: 10px;
+}
+
+
+
+                        /* ===================
+                              Know our area
+                        ====================== */
+                  
+.know-our-area{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 100px;
+}     
+
+.know-our-text{
+    width: 50%;
+}
+
+.know-our-text h1{
+    font-size: 36px;
+}
+
+.know-our-text p{
+    font-size: 18px;
+}
+
+.know-our-text a{
+    text-decoration: none;
+    color: #fff;
+     background-color: #ff5959;
+     padding: 10px 20px;
+     border-radius: 10px;
+}
+
+
+.know-our-image{
+    width: 30%;
+    padding-left: 9%;
+}
+
+.know-our-image img{
+    width: 100%;
+}
+
+
+                            /* ===============
+                                contact us 
+                            =================== */
+
+.sign-up-area{
+    padding-top: 80px;
+    margin-bottom: 50px;
+}
+
+.contact-sign{
+    
+}
+
+.contact-sign h1{
+    font-size: 30px;
+    padding-left: 20%;
+}
+
+.contact-and-img{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.sign-input{
+   
+    background-color: rgba(255, 173, 90, 0.5);
+    padding: 15px 25px;
+}
+
+.sign-input input{
+    
+    width: 100%;
+	box-sizing: border-box;
+	margin-bottom: 8px;
+	background-color: transparent;
+	border: solid 1px #009cff;
+    
+    
+}
+
+.contact-img{
+    width: 80%;
+    padding-left: 10%;
+}
+
+.contact-img img{
+    width: 100%;
+}
+
+.sign-submit{
+    padding-top:5% ;
+
+}
+.sign-submit a {
+    text-decoration: none;
+    color: #fff;
+     background-color: #ff5959;
+     padding: 10px 20px;
+     border-radius: 10px;
+    
+}
+
+                        /* ================
+                          footer area
+                        =================== */
+footer{
+ text-align: center;
+ background-color: black;
+ padding: 10px;
+}
+
+footer h1{
+    color: #ff9696;
+}
+
+footer p{
+    color: #fdfdfd;
+}
